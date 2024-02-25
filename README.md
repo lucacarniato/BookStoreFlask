@@ -2,7 +2,6 @@
 
 ## Introduction
 This project aims to implement a RESTful API for a bookstore using Python with Flask framework. 
-The bookstore platform is envisioned to enable Wookies, led by Lohgarra, to self-publish their adventures and sell them online. The profits generated from book sales will be utilized to procure medical supplies for an impoverished Ewok settlement.
 
 ## Tasks
 - Implement the project using Python with Flask framework.
