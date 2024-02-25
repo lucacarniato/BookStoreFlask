@@ -4,7 +4,6 @@ from flask_restful import Resource
 from .decorators import content_negotiation
 from .utils import decode_jwt
 from ..models import books
-from ..models import users, Book
 
 class UserBookDetailResource(Resource):
     @content_negotiation
